@@ -1,0 +1,51 @@
+student_id,full_name,career,semester,gpa,skill_score
+1001,Juan Perez,Ingenieria en Sistemas,5,85.50,120
+1002,Ana Lopez,Ingenieria Industrial,7,91.20,200
+1003,Carlos Ruiz,Ingenieria Civil,3,78.30,95
+1004,Mariana Garcia,Ingenieria en Sistemas,6,88.40,145
+1005,Luis Martinez,Ingenieria Mecanica,4,82.75,110
+1006,Sofia Hernandez,Ingenieria Industrial,8,93.10,215
+1007,Diego Morales,Ingenieria Civil,2,76.90,85
+1008,Valeria Gomez,Ingenieria en Sistemas,7,89.60,175
+1009,Andres Castillo,Ingenieria Electrica,5,84.20,130
+1010,Camila Torres,Ingenieria Mecanica,3,79.85,100
+1011,Jorge Ramirez,Ingenieria Industrial,6,86.70,160
+1012,Lucia Flores,Ingenieria Civil,4,81.30,105
+1013,Fernando Reyes,Ingenieria en Sistemas,8,94.50,230
+1014,Paola Sanchez,Ingenieria Electrica,5,87.90,150
+1015,Miguel Ortiz,Ingenieria Mecanica,7,90.25,190
+1016,Daniela Vargas,Ingenieria Industrial,2,77.60,92
+1017,Ricardo Mendoza,Ingenieria Civil,6,83.45,125
+1018,Isabella Cruz,Ingenieria en Sistemas,4,86.15,140
+1019,Pedro Aguilar,Ingenieria Electrica,8,92.80,210
+1020,Natalia Romero,Ingenieria Mecanica,5,84.95,135
+1021,Esteban Navarro,Ingenieria Industrial,3,80.10,98
+1022,Renata Molina,Ingenieria Civil,7,88.75,170
+1023,Oscar Herrera,Ingenieria en Sistemas,6,91.45,205
+1024,Andrea Jimenez,Ingenieria Electrica,4,82.60,115
+1025,Manuel Silva,Ingenieria Mecanica,8,89.95,185
+1026,Elena Castro,Ingenieria Industrial,5,85.80,155
+1027,Hugo Medina,Ingenieria Civil,2,75.40,80
+1028,Gabriela Rojas,Ingenieria en Sistemas,9,95.20,245
+1029,Sebastian Fuentes,Ingenieria Electrica,6,87.35,165
+1030,Monica Alvarado,Ingenieria Mecanica,3,78.95,96
+1031,Raul Pineda,Ingenieria Industrial,7,90.60,198
+1032,Claudia Estrada,Ingenieria Civil,5,84.10,128
+1033,Emilio Salazar,Ingenieria en Sistemas,4,83.90,132
+1034,Patricia Morales,Ingenieria Electrica,8,91.75,208
+1035,Kevin Gutierrez,Ingenieria Mecanica,6,86.55,148
+1036,Laura Vega,Ingenieria Industrial,9,94.10,238
+1037,Felipe Cardenas,Ingenieria Civil,3,79.20,99
+1038,Adriana Soto,Ingenieria en Sistemas,7,92.30,220
+1039,Roberto Cabrera,Ingenieria Electrica,5,85.05,138
+1040,Carolina Diaz,Ingenieria Mecanica,4,81.95,112
+1041,Victor Lara,Ingenieria Industrial,6,88.25,172
+1042,Daniela Ponce,Ingenieria Civil,8,90.85,195
+1043,Alberto Navas,Ingenieria en Sistemas,10,96.40,260
+1044,Marcela Leon,Ingenieria Electrica,3,80.75,104
+1045,Samuel Chacon,Ingenieria Mecanica,7,89.15,180
+1046,Paula Mejia,Ingenieria Industrial,4,83.25,118
+1047,Jose Bonilla,Ingenieria Civil,6,86.95,152
+1048,Karla Acevedo,Ingenieria en Sistemas,5,87.60,168
+1049,Henry Vasquez,Ingenieria Electrica,9,93.55,225
+1050,Alicia Dominguez,Ingenieria Mecanica,8,91.05,202
